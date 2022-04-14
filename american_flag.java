@@ -1,5 +1,5 @@
 //American flag
-public class Flag { 
+public class American_flag { 
     //Declaring a main method which is the starting point of JAVA programming. 
     //It accepts two parameters String Array and arguments => String[] args 
  
